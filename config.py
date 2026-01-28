@@ -1,0 +1,7 @@
+BOT_TOKEN = "8592221834:AAE_nSAkr5JBb0qqbh_5ksHsz_KodKb6HQw"
+
+GLPI_URL = "http://192.168.42.222"
+APP_TOKEN = "yw5iVTta1QpN5aqRKUrLNFOJjaUSqunuWpf2nIu6"
+
+ADMIN_IDS = [1131019275]  # твой Telegram ID
+
